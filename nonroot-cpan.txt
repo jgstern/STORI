@@ -1,0 +1,18 @@
+shell> perl -MCPAN -e shell
+cpan> o conf makepl_arg "PREFIX=~/perl5reinstall LIB=~/perl5reinstall/lib INSTALLMAN1DIR=~/perl5reinstall/man INSTALLMAN3DIR=~/perl5reinstall/man"
+cpan> o conf commit
+cpan> o conf mbuildpl_arg "--install_base ~/perl5reinstall" 
+cpan> o conf commit
+cpan> install Statistics::Descriptive
+cpan> install Data::Dumper
+cpan> install List::MoreUtils
+cpan> install Time::Elapse
+cpan> install LWP::Simple
+cpan> install Bio::SeqIO
+cpan> install Getopt::Long
+cpan> q
+
+
+* If something goes wrong, CPAN will probably let you know at the end of an install.
+* Here are some webpages that may be of further assistance:
+http://www.google.com/search?q=non-root%20cpan%20install

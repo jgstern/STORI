@@ -1,0 +1,17 @@
+9646	Ailuropoda.melanoleuca	eumetazoa
+9913	Bos.taurus	eumetazoa
+9615	Canis.lupus.familiaris	eumetazoa
+7955	Danio.rerio	eumetazoa
+9796	Equus.caballus	eumetazoa
+9031	Gallus.gallus	eumetazoa
+9606	Homo.sapiens	eumetazoa
+6085	Hydra.magnipapillata	eumetazoa
+9103	Meleagris.gallopavo	eumetazoa
+13616	Monodelphis.domestica	eumetazoa
+10090	Mus.musculus	eumetazoa
+9986	Oryctolagus.cuniculus	eumetazoa
+10116	Rattus.norvegicus	eumetazoa
+9823	Sus.scrofa	eumetazoa
+59729	Taeniopygia.guttata	eumetazoa
+7070	Tribolium.castaneum	eumetazoa
+8364	Xenopus.Silurana.tropicalis	eumetazoa

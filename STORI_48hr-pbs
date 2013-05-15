@@ -1,0 +1,13 @@
+#PBS -N STORI-pbs
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=48:00:00
+#PBS -k oe
+#PBS -q biocluster-6
+#PBS -m abe
+
+
+echo "Started on `/bin/hostname`"
+echo "Nodes chosen are:"
+cat $PBS_NODEFILE
+
+perl /nv/hp10/jstern7/STORI3/STORI.pl ${runNumber} ${sourceDirPath} ${windowSize} ${finalMaxFams} ${sc}
