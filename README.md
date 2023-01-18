@@ -3,7 +3,7 @@ STORI
 
 Selectable Taxon Ortholog Retrieval Iteratively
 
-User Guide: [http://bit.ly/1cL2WKu](http://bit.ly/1cL2WKu)  
+User Guide: [https://tinyurl.com/mr395m6z](https://tinyurl.com/mr395m6z)  
 Thesis: [http://linkd.in/1fZO63l](http://linkd.in/1fZO63l)
 
 ###4/20/2015 - Introducing single-node STORI
